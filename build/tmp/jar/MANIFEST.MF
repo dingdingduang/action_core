@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: actioncore
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: ActionCore
+Implementation-Version: 1.1.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+Implementation-Timestamp: 2026-08-24T14:47:52-0400
+
