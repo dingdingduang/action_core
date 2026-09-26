@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "actioncore",
+	"version": "${version}",
+	"name": "Action Core",
+	"description": "Perform logic like wc3 editor wtg action.",
+	"authors": [
+		"dingdingduang"
+	],
+	"contact": {
+
+	},
+	"license": "MIT",
+	"icon": "assets/actioncore/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.whatever.actioncore.ActionCore"
+		],
+		"client": [
+			"com.whatever.actioncore.client.ActionCoreModClient"
+		]
+	},
+	"mixins": [
+
+	],
+	"depends": {
+		"fabricloader": ">=${loader_version}",
+		"minecraft": "${minecraft_version}",
+		"java": ">=${java_version}",
+		"fabric": "*"
+	}
+}

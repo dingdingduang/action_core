@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        maven { url = 'https://nexus.gtnewhorizons.com/repository/public/' }
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
+rootProject.name = 'actioncore-1.7.10-forge'

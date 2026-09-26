@@ -1,0 +1,16 @@
+[
+{
+  "modid": "actioncore",
+  "name": "Action Core",
+  "description": "Perform similar logic like wc3 editor action.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dingdingduang"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
